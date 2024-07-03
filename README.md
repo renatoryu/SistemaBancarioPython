@@ -16,14 +16,15 @@ Este é um projeto de sistema bancário simples desenvolvido em Python com colab
 ## Como Usar
 
 1. Clone o repositório para o seu ambiente local.
-git clone https://github.com/seu-usuario/sistema-bancario-python.git
+(`git clone https://github.com/seu-usuario/sistema-bancario-python.git`)
 
 2. Navegue até o diretório do projeto.
 
 3. Execute o programa principal.
-python SistemaBancario.py
+(`python SistemaBancario.py`)
 
-4. Siga as instruções apresentadas no terminal para interagir com o sistema.
+
+5. Siga as instruções apresentadas no terminal para interagir com o sistema.
 
 ## Contribuições
 
