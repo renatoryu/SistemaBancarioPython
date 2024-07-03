@@ -1,6 +1,6 @@
 # Sistema Bancário em Python
 
-Este é um projeto de sistema bancário simples desenvolvido em Python em Colaboração a [DIO](https://www.dio.me/). O sistema permite realizar operações bancárias básicas, depositar, sacar e consultar extrato.
+Este é um projeto de sistema bancário simples desenvolvido em Python com colaboração da [DIO](https://www.dio.me/). O sistema permite realizar operações bancárias básicas, depositar, sacar e consultar extrato.
 
 ## Funcionalidades
 
