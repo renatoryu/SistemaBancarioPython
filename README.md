@@ -4,14 +4,14 @@ Este é um projeto de sistema bancário simples desenvolvido em Python com a col
 
 ## Versões
 
-### [v1.0](https://github.com/seu-usuario/SistemaBancarioPython/tree/v1.0)
+### [v1.0](https://github.com/renatoryu/SistemaBancarioPython/tree/v1.0)
 
 A versão inicial do sistema bancário com as seguintes funcionalidades:
 - **Depósitos:** Permite adicionar fundos com valores positivos.
 - **Saques:** Permite retirar fundos, desde que haja saldo suficiente, com um limite de 3 saques por acesso de até R$500.
 - **Consulta de Extrato:** Mostra o extrato realizado ao longo das operações.
 
-### [v2.0](https://github.com/seu-usuario/SistemaBancarioPython/tree/v2.0)
+### [v2.0](https://github.com/renatoryu/SistemaBancarioPython/tree/v2.0)
 
 Versão mais modularizada com novas funcionalidades:
 - **Depósitos, Saques e Extrato:** Mantém as funcionalidades da v1.
@@ -20,13 +20,11 @@ Versão mais modularizada com novas funcionalidades:
 - **Listagem de Contas:** Lista todas as contas correntes.
 - **Filtragem de Usuário:** Permite filtrar usuários existentes.
 
-### [v3.0](https://github.com/seu-usuario/SistemaBancarioPython/tree/v3.0)
+### [v3.0](https://github.com/renatoryu/SistemaBancarioPython/tree/v3.0)
 
-Versão atual com funcionalidades avançadas:
-- **Melhoria nas Funções de Transações:** Otimizações e correções nas funções de depósitos, saques e extrato.
-- **Gestão de Usuários e Contas:** Funcionalidades avançadas para criar, editar e deletar usuários e contas correntes.
-- **Relatórios e Estatísticas:** Geração de relatórios financeiros e estatísticas de uso.
-- **Interface Gráfica:** Interface gráfica amigável para facilitar a interação com o sistema.
+- **Uso de Objetos**: Dados dos clientes são agora armazenados em objetos ao invés de dicionários.
+- **Interfaces e Métodos Abstratos**: Implementação de interfaces e métodos abstratos para melhor organização e reutilização de código.
+- **Herança**: Utilização de herança para criar uma estrutura de classes mais eficiente e modular.
 
 ## Pré-requisitos
 
