@@ -18,28 +18,5 @@ Nesta versão, o sistema foi modularizado e novas funcionalidades foram adiciona
 - Python 3.x instalado
 - Nenhum pacote adicional é necessário.
 
-## Como Usar
-
-1. Clone o repositório para o seu ambiente local.
-(`git clone https://github.com/seu-usuario/SistemaBancarioPython.git`)
-
-2. Navegue até o diretório do projeto.
-
-3. Execute o programa principal.
-(`python SistemaBancario.py`)
-
-4. Siga as instruções apresentadas no terminal para interagir com o sistema.
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você deseja melhorar este projeto, por favor:
-
-1. Fork o projeto.
-2. Crie uma branch para sua nova funcionalidade (`git checkout -b feature/nova-funcionalidade`).
-3. Faça commit de suas alterações (`git commit -am 'Adiciona nova funcionalidade'`).
-4. Push para a branch (`git push origin feature/nova-funcionalidade`).
-5. Crie um novo Pull Request.
-
-
 
 
