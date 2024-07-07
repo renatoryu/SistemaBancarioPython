@@ -34,6 +34,12 @@ Na versão 2, o sistema foi modularizado e novas funcionalidades foram adicionad
 
 Contribuições são bem-vindas! Se você deseja melhorar este projeto, por favor:
 
+1. Fork o projeto.
+2. Crie uma branch para sua nova funcionalidade (`git checkout -b feature/nova-funcionalidade`).
+3. Faça commit de suas alterações (`git commit -am 'Adiciona nova funcionalidade'`).
+4. Push para a branch (`git push origin feature/nova-funcionalidade`).
+5. Crie um novo Pull Request.
+
 
 
 
