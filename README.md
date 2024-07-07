@@ -75,5 +75,3 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, por favo
 5. Crie um novo Pull Request.
 
 ## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
