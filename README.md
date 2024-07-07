@@ -12,7 +12,7 @@ Este é um projeto de sistema bancário simples desenvolvido em Python com colab
 - **Listagem de Contas**: Lista todas as contas correntes.
 - **Filtragem de Usuário**: Permite filtrar usuários existentes.
 
-## Melhorias na Versão 3
+## Melhorias na v3
 
 - **Uso de Objetos**: Dados dos clientes são agora armazenados em objetos ao invés de dicionários.
 - **Interfaces e Métodos Abstratos**: Implementação de interfaces e métodos abstratos para melhor organização e reutilização de código.
